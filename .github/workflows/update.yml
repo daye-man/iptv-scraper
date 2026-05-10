@@ -68,6 +68,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -f output/hk_merged.m3u output/all_merged.m3u filtered/
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/xJEYDAin/iptv-scraper.git"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/daye-man/iptv-scraper.git"
           git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" --allow-empty || true
           git push origin master
