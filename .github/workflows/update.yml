@@ -21,7 +21,7 @@ jobs:
       - name: Checkout iptv-validator (read-only, 获取最新 cache)
         uses: actions/checkout@v4
         with:
-          repository: xJEYDAin/iptv-validator
+          repository: daye-man/iptv-validator
           path: iptv-validator
           fetch-depth: 1
 
