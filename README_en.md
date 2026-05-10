@@ -36,8 +36,8 @@
 
 **Full URLs:**
 
-- **Hong Kong:** https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/master/output/hk_merged.m3u
-- **Global:** https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/master/output/all_merged.m3u
+- **Hong Kong:** https://raw.githubusercontent.com/daye-man/iptv-scraper/master/output/hk_merged.m3u
+- **Global:** https://raw.githubusercontent.com/daye-man/iptv-scraper/master/output/all_merged.m3u
 
 ---
 
@@ -67,7 +67,7 @@
 
 ```bash
 # Clone
-git clone https://github.com/xJEYDAin/iptv-scraper.git
+git clone https://github.com/daye-man/iptv-scraper.git
 cd iptv-scraper
 
 # Install dependencies
