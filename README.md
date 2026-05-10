@@ -36,8 +36,8 @@
 
 **完整地址：**
 
-- **香港:** https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/master/output/hk_merged.m3u
-- **全球:** https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/master/output/all_merged.m3u
+- **香港:** https://raw.githubusercontent.com/daye-man/iptv-scraper/master/output/hk_merged.m3u
+- **全球:** https://raw.githubusercontent.com/daye-man/iptv-scraper/master/output/all_merged.m3u
 
 ---
 
@@ -67,7 +67,7 @@
 
 ```bash
 # 克隆
-git clone https://github.com/xJEYDAin/iptv-scraper.git
+git clone https://github.com/daye-man/iptv-scraper.git
 cd iptv-scraper
 
 # 安装依赖
