@@ -714,6 +714,8 @@ https://stream1.freetv.fun/2bc66c8999cf5ae80c942ee475da7eb5a6c72b936fdc9119ce997
 https://stream1.freetv.fun/67265fb02e9175f8b48b7c206c5aba7e40fa88aeb1f5df1fdb9fca31973dba07.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="越南" tvg-language="越南語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="其它",[HD]antv
 https://stream1.freetv.fun/7edd96affb200a65408e5e90fbc6b99bc924bf75ecee54c8b42dd72fb4b7f241.m3u8
+#EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="越南" tvg-language="越南語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="其它",[BD]antv
+https://stream1.freetv.fun/c71db9b2c1cc3cf589ae4e610a669608c3fed60e743fd888880c4be8bc61ce20.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="越南" tvg-language="越南語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="其它",[SD]antv
 https://stream1.freetv.fun/07bcd1bcb9277cf759d995196f0fa4d7957785e1360f0eb51624b16c7bf4b981.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="越南" tvg-language="越南語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="其它",[BD]antv
@@ -7164,6 +7166,12 @@ https://stream1.freetv.fun/46ad2b4bac8cbe949dd8490c4db05f1e5a6092dd6595ea8bd63a2
 https://stream1.freetv.fun/19a860c8ab5472ca1ff98b322caacdbe41e0e5e9a18f5958c55a1b20df832074.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="西班牙" tvg-language="西班牙語" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="運動",[VGA]real madrid tv
 https://stream1.freetv.fun/bd3098c590e7e703eca27e69fb92626c58305595eb0c7b772c88b639b1e9873a.m3u8
+#EXTINF:-1 tvg-name="Realitatea TV" tvg-id="" tvg-country="羅馬尼亞" tvg-language="羅馬尼亞" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174457510877_38.png" group-title="新聞",[BD]realitatea sportiva
+https://stream1.freetv.fun/d7e86989702f15152c523f624c9af13671cae37f57bb8cccc45372f4a3defd56.m3u8
+#EXTINF:-1 tvg-name="Realitatea TV" tvg-id="" tvg-country="羅馬尼亞" tvg-language="羅馬尼亞" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174457510877_38.png" group-title="新聞",[BD]realitatea star
+https://stream1.freetv.fun/6a54619d905f51664732670cbb50a19899e8328f505d78d409a9af833adc05bd.m3u8
+#EXTINF:-1 tvg-name="Realitatea TV" tvg-id="" tvg-country="羅馬尼亞" tvg-language="羅馬尼亞" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174457510877_38.png" group-title="新聞",[BD]realitatea plus
+https://stream1.freetv.fun/41c36be5bb251407d38bc3d954b2c472d2235cc093443832f986eb0b00075b0d.m3u8
 #EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="巴西" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="新聞",[HD]record news
 https://stream1.freetv.fun/ab77d4a94219e3700a14e292f9e33c2558062f2eacf6a6c3e5076285484863b7.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516155835221115_90.jpg" group-title="運動",[HD]red bull tv hd
